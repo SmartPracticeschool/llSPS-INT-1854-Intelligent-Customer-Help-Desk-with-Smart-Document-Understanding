@@ -45,3 +45,5 @@ In this project a chatbot is created which offers a complete and easy way to ans
     * User interface
     * Security
     * Json editor
+## Flow
+![alt output](http://i.xp.io/w0SGuLg.png)
