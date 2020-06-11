@@ -53,9 +53,9 @@ In this project a chatbot is created which offers a complete and easy way to ans
 
 2.How to [create UI](noderedflow.md) with node red flow (Chatbot).
 
-3.How to [create cloud function](cloud function.md) using IBM cloud.
+3.How to [create cloud function](cloudfunction.md) using IBM cloud.
 
-4.How to [connect Watson discovery](connectwatsondiscovery to chatbot.md) to chatbot through Cloud funtcion.
+4.How to [connect watson discovery](connectwatsondiscoverytochatbot.md) to chatbot through Cloud funtcion.
 
 
 
