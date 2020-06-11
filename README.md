@@ -49,13 +49,14 @@ In this project a chatbot is created which offers a complete and easy way to ans
 ![alt output](http://i.xp.io/w0SGuLg.png)
 ## What will you get to know here?
 
-1.How to create a skill using Watson Assistant.
+1.How to [create a skill](skill.md) using Watson Assistant.
 
-2.How to create UI with node red flow (Chatbot).
+2.How to [create UI](noderedflow.md) with node red flow (Chatbot).
 
-3.How to create cloud function using IBM cloud.
+3.How to [create cloud function](cloud function.md) using IBM cloud.
 
-4.How to connect Watson discovery to chatbot through Cloud funtcion.
+4.How to [connect Watson discovery](connectwatsondiscovery to chatbot.md) to chatbot through Cloud funtcion.
+
 
 
 
